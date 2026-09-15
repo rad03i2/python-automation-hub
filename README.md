@@ -18,3 +18,8 @@ A collection of useful Python automation scripts focused on local productivity, 
 ```bash
 python automations/bulk_rename_preview.py ./samples
 ```
+
+## Official links
+
+- Portfolio: https://rdwan.dev
+- Project page: https://rdwan.dev/projects/16-python-automation-hub.html
